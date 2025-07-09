@@ -3,10 +3,10 @@
 ### About Me:
 - 🧑‍🎓 I'm a student, learning programming.
 - 🤝 If you're kind to me, I'm kind to you. Otherwise, I stay neutral.
-- 🌱 I’m currently exploring Python, C++, and Pawn.
+- 🌱 I’m currently exploring Python, C++, React, and Pawn.
 
 ### Technologies:
-- **Languages**: Python, C++, Pawn
+- **Languages**: Python, C++, React, HTML, CSS, JS, Pawn
 
 ### What I Do:
 - 📖 When I'm not coding, I enjoy reading the news and playing Sudoku or Minesweeper.
