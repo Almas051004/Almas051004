@@ -6,7 +6,7 @@
 - 🌱 I’m currently exploring Python, C++, React, and Pawn.
 
 ### Technologies:
-- **Languages**: Python, C++, React, HTML, CSS, JS, Pawn
+- **Languages**: Python, C++, React, HTML, CSS, JS, Pawn, 1C
 
 ### What I Do:
 - 📖 When I'm not coding, I enjoy reading the news and playing Sudoku or Minesweeper.
