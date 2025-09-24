@@ -1,7 +1,7 @@
 # Hi there, I'm Almas 👋
 
 ### About Me:
-- 🧑‍🎓 I'm a student, learning programming.
+- 🧑‍🎓 I'm learning programming on my own.
 - 🤝 If you're kind to me, I'm kind to you. Otherwise, I stay neutral.
 - 🌱 I’m currently exploring Python, C++, React, and Pawn.
 
